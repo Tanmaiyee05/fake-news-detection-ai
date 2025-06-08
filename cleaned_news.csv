@@ -1,0 +1,5 @@
+title,text,subject,date,label,clean_text
+Real news headline 1,This is real news content 1.,World,2020-01-03,1,real news content
+Fake news headline 2,This is fake news content 2.,Politics,2020-01-02,0,fake news content
+Real news headline 2,This is real news content 2.,Business,2020-01-04,1,real news content
+Fake news headline 1,This is fake news content 1.,News,2020-01-01,0,fake news content
